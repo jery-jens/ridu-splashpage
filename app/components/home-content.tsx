@@ -17,9 +17,9 @@ export default function HomeContent() {
           <div className="max-w-[500px] py-14 md:py-8">
             <div className="mb-8 flex items-center gap-2">
               <div className="flex items-center">
-                <Image src="/images/avatar-1.webp" alt="Avatar" width={16} height={16} />
-                <Image src="/images/avatar-2.webp" className="-ml-2" alt="Avatar" width={20} height={20} />
-                <Image src="/images/avatar.webp" className="-ml-2" alt="Avatar" width={24} height={24} />
+                <Image src="/images/avatarv.webp" alt="Avatar" width={16} height={16} />
+                <Image src="/images/avatarvv.webp" className="-ml-2" alt="Avatar" width={20} height={20} />
+                <Image src="/images/avatarvvv.webp" className="-ml-2" alt="Avatar" width={24} height={24} />
               </div>
               <p><span className="font-medium">100+ renners</span> zijn al ingeschreven</p>
             </div>
