@@ -23,7 +23,7 @@ export default function HomeContent() {
               </div>
               <p><span className="font-medium">100+ renners</span> zijn al ingeschreven</p>
             </div>
-            <h1 className="md:text-7xl text-4xl md:mb-8 mb-6 font-serif leading-[100%]">Fiets verder, vind vrienden – sluit je aan bij de rit.</h1>
+            <h1 className="md:text-7xl text-4xl md:mb-8 mb-6 font-serif leading-[100%]">Fiets verder, vind vrienden — sluit je aan bij de rit.</h1>
             <p className="md:text-xl text-base mb-4 md:mb-8 text-foreground/70 font-sans">Ridu is een platform voor wielrenners. Organiseer je rit, nodig anderen uit of sluit je aan bij een groep.</p>
             
             <WaitinglistForm />
